@@ -1,0 +1,39 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Data (users generate these)
+data/
+*.db
+
+# Config with secrets
+scripts/config.json
+
+# Bot stuff (not for public repo)
+bot.pid
+logs/
+launcher.bat
+run_bot.bat
+run_bot_persistent.bat
+start_bot.bat
+setup_bot.bat
+loadNapCat.js
+scripts/qq_bot.py
+scripts/faq.json
+kb/
+
+# Internal docs
+BUSINESS_PLAN.md
+MARKETING.md
+DEPLOY_BOT.md
+ROADMAP.md
+
+# Temp
+manual_content.txt
+*.zip
+
+# OS
+Thumbs.db
+.DS_Store
