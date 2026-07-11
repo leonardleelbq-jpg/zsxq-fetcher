@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Windows%20%7C%20macOS-✓-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![QQ Group](https://img.shields.io/badge/QQ群-1056687150-12B7F5?logo=tencentqq)](https://qm.qq.com/q/your_group_link)
+[![QQ Group](https://img.shields.io/badge/QQ群-1056687150-12B7F5?logo=tencentqq)](https://qm.qq.com/q/1056687150)
 
 ---
 
@@ -108,7 +108,7 @@ python -m playwright install chromium
 ## 社区
 
 - 📮 QQ 群：**1056687150**（ZSXQ Fetcher 用户交流）
-- 🐛 问题反馈：[GitHub Issues](https://github.com/your/repo/issues)
+- 🐛 问题反馈：[GitHub Issues](https://github.com/leonardleelbq-jpg/zsxq-fetcher/issues)
 - 📖 使用手册：[docs/用户手册.md](docs/用户手册.md)
 
 ---
