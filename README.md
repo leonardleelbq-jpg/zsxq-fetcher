@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Windows%20%7C%20macOS-✓-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![QQ Group](https://img.shields.io/badge/QQ群-1056687150-12B7F5?logo=tencentqq)](https://qm.qq.com/q/1056687150)
+[![QQ Group](https://img.shields.io/badge/QQ群-1056687150-12B7F5?logo=tencentqq)](QQ 群：**1056687150**)
 
 ---
 
