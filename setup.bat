@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 chcp 65001 >nul
 echo ========================================
 echo   ZSXQ Fetcher — 一键安装
@@ -54,6 +54,6 @@ echo   1. 用记事本打开 scripts\config.json 填入你的 token
 echo      （获取 token: 浏览器登录 wx.zsxq.com → F12 → Cookies）
 echo   2. 运行: python scripts\zsxq_fetcher.py --list
 echo.
-echo   交流群: https://qm.qq.com/q/your_group
+echo   交流群: 1056687150
 echo.
 pause
